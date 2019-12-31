@@ -1,22 +1,21 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './avatar_cartoon.png';
 import './App.css';
+import Animation from './Animation'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <img src={logo} className="App-logo rythm-bass" alt="logo" />
+        <Animation />
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="http://www.dadamugamazino.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Visit my site! :-)
         </a>
       </header>
     </div>
