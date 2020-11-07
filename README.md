@@ -1,3 +1,3 @@
 # Audio Animator
 
-Animates audio using the frequency of the music. 
+Animates div using the frequency of the supplied music. 
