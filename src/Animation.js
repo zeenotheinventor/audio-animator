@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Rythm from 'rythm.js';
-import music from './AfricanMetal_v17.mp3'
+import music from './rythmC.mp3'
 
 class Animation extends Component {
 
@@ -31,7 +31,7 @@ class Animation extends Component {
                     <div>
                         <div>
                             {/* <img src={logo} className="App-logo" alt="logo" /> */}
-                            
+
                             <div>Bass</div>
                         </div>
                     </div>
